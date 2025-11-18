@@ -56,3 +56,12 @@ The model was evaluated on a dedicated validation set to provide a reliable meas
 * **TensorFlow / Keras**
 * **NumPy / Pandas** (for data manipulation)
 * **Matplotlib / Seaborn** (for visualization)
+
+## ✨ Contributors
+
+Thanks to these wonderful people who contributed to this project:
+
+| Name | Role |  
+|---|---|
+| **Krishna Thawani** | Trained Model on Chest X-rays | 
+| **Keshav Mittal** | Trained Model on Brain MRIs |
